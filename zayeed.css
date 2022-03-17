@@ -1,0 +1,9 @@
+* {
+    box-sizing: border-box;
+    margin: 5px;
+}
+
+textarea {
+    display: block;
+    margin-top: 10px;
+}
